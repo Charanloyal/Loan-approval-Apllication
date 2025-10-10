@@ -1,0 +1,31 @@
+Loan_ID,Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Loan_Status
+LP001002,Male,No,0,Graduate,No,5849,0.0,,360.0,1.0,Urban,Y
+LP001003,Male,Yes,1,Graduate,No,4583,1508.0,128.0,360.0,1.0,Rural,N
+LP001005,Male,Yes,0,Graduate,Yes,3000,0.0,66.0,360.0,1.0,Urban,Y
+LP001006,Male,Yes,0,Not Graduate,No,2583,2358.0,120.0,360.0,1.0,Urban,Y
+LP001008,Male,No,0,Graduate,No,6000,0.0,141.0,360.0,1.0,Urban,Y
+LP001011,Male,Yes,2,Graduate,Yes,5417,4196.0,267.0,360.0,1.0,Urban,Y
+LP001013,Male,Yes,0,Not Graduate,No,2333,1516.0,95.0,360.0,1.0,Urban,Y
+LP001014,Male,Yes,3+,Graduate,No,3036,2504.0,158.0,360.0,0.0,Semiurban,N
+LP001018,Male,Yes,2,Graduate,No,4006,1526.0,168.0,360.0,1.0,Urban,Y
+LP001020,Male,Yes,1,Graduate,No,12841,10968.0,349.0,360.0,1.0,Semiurban,N
+LP001024,Male,Yes,2,Graduate,No,3200,700.0,70.0,360.0,1.0,Urban,Y
+LP001027,Male,Yes,2,Graduate,No,2500,1840.0,109.0,360.0,1.0,Urban,Y
+LP001028,Male,Yes,0,Graduate,No,3073,8106.0,200.0,360.0,1.0,Urban,Y
+LP001029,Male,No,0,Graduate,No,1853,2840.0,114.0,360.0,1.0,Rural,N
+LP001030,Male,Yes,0,Graduate,No,1299,1086.0,17.0,120.0,1.0,Urban,Y
+LP001032,Male,Yes,0,Graduate,No,4950,0.0,125.0,360.0,1.0,Urban,Y
+LP001034,Female,No,0,Graduate,No,3596,0.0,100.0,240.0,0.0,Urban,N
+LP001036,Male,Yes,1,Graduate,No,3510,0.0,76.0,360.0,0.0,Urban,N
+LP001038,Male,Yes,0,Not Graduate,No,4887,0.0,133.0,360.0,1.0,Rural,Y
+LP001041,Male,Yes,0,Graduate,No,2600,3500.0,115.0,360.0,1.0,Urban,Y
+LP001043,Male,Yes,0,Graduate,No,7660,0.0,104.0,360.0,0.0,Urban,N
+LP001046,Female,Yes,1,Not Graduate,No,5955,5625.0,315.0,360.0,1.0,Urban,Y
+LP001047,Male,Yes,0,Graduate,No,2600,1717.0,70.0,360.0,1.0,Urban,Y
+LP001048,Male,Yes,1,Not Graduate,No,3365,1917.0,112.0,360.0,0.0,Urban,N
+LP001049,Female,No,0,Graduate,No,4583,0.0,79.0,360.0,1.0,Urban,Y
+LP001051,Male,No,0,Not Graduate,No,2789,0.0,47.0,360.0,1.0,Urban,Y
+LP001052,Male,Yes,1,Graduate,No,4739,0.0,40.0,180.0,1.0,Urban,Y
+LP001054,Male,Yes,0,Graduate,No,4608,1250.0,98.0,360.0,1.0,Urban,Y
+LP001055,Male,No,0,Graduate,No,2900,0.0,35.0,360.0,1.0,Urban,Y
+LP001056,Female,No,0,Graduate,No,4887,2709.0,158.0,360.0,1.0,Urban,Y
