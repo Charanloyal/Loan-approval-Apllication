@@ -287,29 +287,6 @@ We welcome contributions! Please follow these steps:
 - Update documentation as needed
 - Ensure all tests pass before submitting
 
-## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Dataset source: [Loan Prediction Dataset](https://www.kaggle.com/datasets)
-- Inspired by [AmanXai's tutorial](https://amanxai.com/2023/05/15/loan-approval-prediction-using-python/)
-- Built with scikit-learn, pandas, and matplotlib
-
-## 📞 Contact
-
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
-
-## 🗺️ Roadmap
-
-- [ ] Add more advanced algorithms (XGBoost, Neural Networks)
-- [ ] Implement hyperparameter tuning
-- [ ] Create web API for real-time predictions
-- [ ] Add model interpretability features
-- [ ] Deploy to cloud platforms (AWS, GCP, Azure)
-- [ ] Add automated model retraining pipeline
 
