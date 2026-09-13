@@ -313,14 +313,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Deploy to cloud platforms (AWS, GCP, Azure)
 - [ ] Add automated model retraining pipeline
 
-## 📊 Screenshots
-
-### Exploratory Data Analysis
-![EDA Plots](docs/images/eda_plots.png)
-
-### Model Performance Comparison
-![Model Evaluation](docs/images/model_evaluation.png)
-
----
-
-⭐ **If you found this project helpful, please give it a star!** ⭐
